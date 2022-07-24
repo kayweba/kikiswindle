@@ -1,0 +1,207 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 100 version
+*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #6D4A36;
+    height: -webkit-calc(100% - 100px);
+    height: -moz-calc(100% - 100px);
+    height: calc(100% - 100px);
+}
+
+header {
+    /* height: 100vh; */
+    background: -webkit-linear-gradient(74.41deg, #79532D 18.21%, #957958 41.67%, #AA9A78 69.7%, #967A5A 97.14%);
+    background: -moz-linear-gradient(74.41deg, #79532D 18.21%, #957958 41.67%, #AA9A78 69.7%, #967A5A 97.14%);
+    background: -o-linear-gradient(74.41deg, #79532D 18.21%, #957958 41.67%, #AA9A78 69.7%, #967A5A 97.14%);
+    background: linear-gradient(15.59deg, #79532D 18.21%, #957958 41.67%, #AA9A78 69.7%, #967A5A 97.14%);
+}
+
+.blueberry_1 img {
+    margin-top: 9px;
+}
+
+.content_maker {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+
+.blueberry_2 {
+    margin-top: 70px;
+    margin-right: 18px;
+}
+
+.kikiswindle {
+    margin-top: -21px;
+    margin-right: 70px;
+}
+
+.kikiswindle img {
+    display: block;
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+            border-radius: 50%;
+}
+
+h1 {
+    line-height: 0px;
+    font-size: 36px;
+    text-align: center;
+    margin-top: -40px;
+    z-index: 1;
+}
+
+.social_networks a {
+    font-weight: normal;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #242A38;
+    margin-top: 16px;
+    padding: 20px;
+    width: 315px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 24px;
+    -webkit-border-radius: 15px;
+       -moz-border-radius: 15px;
+            border-radius: 15px;
+    cursor: pointer;
+    z-index: 1;
+}
+.social_networks {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+       -moz-box-orient: vertical;
+       -moz-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+
+
+.background {
+    margin-top: -185px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    overflow-x: hidden;
+}
+
+#about_section {
+    margin-top: -95px; 
+    background-color: #6D4A36;
+}
+
+.about_wrapper h2, p, .open_mask a {
+    margin-left: 16px;
+    font-weight: normal;
+}
+
+.about_wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.about_wrapper img {
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+.about_wrapper h2 {
+    color: #ffffff;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.text {
+    color: #ffffff;
+    font-size: 18px;
+    max-width: 304px;
+    z-index: 1;
+}
+
+.text p:first-child {
+    margin-top: -5px;
+}
+
+.text p {
+    margin-top: 18px;
+}
+
+.open_mask {
+    margin-top: 40px;
+    z-index: 1;
+}
+
+.open_mask a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+    background-color: #242A38;
+    padding: 20px 36px;
+    -webkit-border-radius: 15px;
+       -moz-border-radius: 15px;
+            border-radius: 15px;
+    z-index: 2;
+}
+
+.footer__bg {
+    position: absolute;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow-x: hidden;
+    margin-left: -120px;
+    margin-top: -20px;
+    z-index: -1;
+}
+
+.coffe_2 {
+    margin-left: 208px;
+    margin-top: -40px;
+    margin-bottom: -20px;
+}
